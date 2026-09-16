@@ -1,0 +1,43 @@
+	SDLC - Software Development Life Cycle
+How to make to s/w
+
+Steps:
+
+1. Requirement Gathering - Info collection
+2. Analysis Requirement - Thinking. - Final
+3. Planning 
+4. Designing
+5. Development(Coding)
+6. Testing
+7. Deployment - Live
+8. Feedback - 
+9. Maintenance - Update
+
+
+	Java	-> build tool -> Maven - apache
+		yum install maven
+		
+		# mvn 
+
+		Java build -
+			war - web archive
+			jar - java archive
+			ear - enterprise archive
+
+	Nodejs  -> npm build  ->
+	Python  -> separate not available
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
