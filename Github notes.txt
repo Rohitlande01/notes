@@ -1,0 +1,101 @@
+1. A/c Create - One time process
+
+2. Repo- Repository - Project Folder
+Multiple time - multiple repo
+
+repository - repo - folder - project
+
+
+-------------------
+5 Aug
+
+
+1. Create Project on GitHub
+2. Install git s/w on computer(windows)  - One time install git on computer
+	# git version
+3. Make folder(cmd) -
+
+# git clone https://github.com/Rohitlande01/web1.git
+
+(Yane kay zale - ? to GitHub project aaplya machine var aala)
+================================
+	add,commit
+
+	git status		=> check git repo status
+
+	git add Php1
+	git add Php2
+
+	git add *		=> git add * all files
+--------------------
+	git commit 
+
+
+
+C:\Users\hp\OneDrive\Desktop\Rohit Project\web1>git commit -m "Php file" Php1 Php2
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+C:\Users\hp\OneDrive\Desktop\Rohit Project\web1>git config --global user.email "rohitlande215@gmail.com"
+
+C:\Users\hp\OneDrive\Desktop\Rohit Project\web1>git config --global user.name "RohitKumar"
+
+
+--------------
+
+	 new file:   Php1
+        new file:   Php2
+        new file:   Python1
+        new file:   js/js1
+        new file:   js/js2
+        new file:   js/js3
+
+	# git commit -m "Php files" Php1 Php2
+
+	# git commit -m "python file" Python1
+
+	# git commit -m "Js files" *
+
+	# git log		=> to check commit history
+
+	# git remote -v		=> GitHub project link - url
+
+	origin  https://github.com/Rohitlande01/web1.git (fetch)
+	origin  https://github.com/Rohitlande01/web1.git (push)
+------------------------------------------------------------
+
+	# git push origin main 		=> first time -> sign in -> confirm Rohit tumhich aahe ka?
+						link generate browser,	
+						open that link in GitHub open ithe.
+						Authorized Echo System .
+-------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
