@@ -1,0 +1,17 @@
+Jenkins चा इतिहास
+
+Jenkins हे continuous integration आणि continuous delivery (CI/CD) साठी वापरले जाणारे open-source automation server आहे.
+
+Who? — Kohsuke Kawaguchi यांनी Jenkins विकसित केले.
+When? — त्याची सुरुवात 2004 मध्ये झाली.
+Original name? — सुरुवातीला त्याचे नाव Hudson होते.
+Why? — Java code चे build आणि testing automate करण्यासाठी त्यांनी ते तयार केले.
+Jenkins नाव कधी आले? — 2011 मध्ये Hudson community मधील fork नंतर प्रोजेक्टचे नाव Jenkins झाले.
+
+सोप्या भाषेत
+
+पूर्वी developer ला code बदलल्यानंतर manually build आणि test करावे लागत होते. ते काम automatic करण्यासाठी Hudson/Jenkins तयार झाले.
+
+Developer → Code Commit → Jenkins → Build → Test → Deploy
+
+यामुळे development process faster, automatic आणि reliable झाला.
