@@ -1,0 +1,24 @@
+node{
+    stage("First"){
+        echo "Hello world"
+    }
+}
+
+
+---------------------------
+
+node{
+    stage("Code"){
+        git branch: 'main', url: 'https://github.com/Rohitlande01/car-rental-website.git'
+    }
+    stage("Deploy"){
+        sh '''
+        rm -rf /var/www/html/car/*
+        cp ./* /var/www/html/car
+        
+        
+        '''
+    }
+}
+
+	
